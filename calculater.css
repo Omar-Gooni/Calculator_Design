@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+ text-align:center;
+ background-image:url(https://media.istockphoto.com/id/841403680/photo/star-sky-at-night-space-background.jpg?s=612x612&w=0&k=20&c=EB5DWPJK8OlYHZBp1ny0ljMyyENeFVmiNFqTO2td8Zo=);
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+ height: 100vh;
+}
+input {
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border-style: none;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: red;
+}
+.btn:hover {
+    background-color: yellow;
+    cursor: pointer;
+
+
+}
